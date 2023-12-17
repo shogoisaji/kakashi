@@ -1,5 +1,8 @@
 # kakashi
 
+![Screenshot_20231217-164356](https://github.com/shogoisaji/kakashi/assets/131496728/1779b06a-3876-4207-aefe-5d9656bf5a54)
+
+
 A new Flutter project.
 
 ## Getting Started
